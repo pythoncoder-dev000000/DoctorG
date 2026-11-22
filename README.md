@@ -20,6 +20,12 @@ Latest release: https://github.com/pythoncoder-dev000000/DoctorG/releases/latest
 
 Requires Android 8.0 or newer.
 
+## Screenshots
+
+| Home | Scan result with "Why?" | Scam guides | App Lock |
+|------|-------------------------|-------------|----------|
+| <img src="PASTE_IMAGE_1" width="200"> | <img src="PASTE_IMAGE_2" width="200"> | <img src="PASTE_IMAGE_3" width="200"> | <img src="PASTE_IMAGE_4" width="200"> |
+
 ### Verify your download
 Compare the SHA-256 checksum shown in the release notes with your file.
 
