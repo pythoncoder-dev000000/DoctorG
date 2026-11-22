@@ -20,6 +20,11 @@ Latest release: https://github.com/pythoncoder-dev000000/DoctorG/releases/latest
 
 Requires Android 8.0 or newer.
 
+## Screenshots
+
+| Home | Scan | Web & Net | Tools | App |
+|------|------|-----------|-------|-----|
+| <img src="docs/screenshots/home.jpg" width="150"> | <img src="docs/screenshots/scan.jpg" width="150"> | <img src="docs/screenshots/web-net.jpg" width="150"> | <img src="docs/screenshots/tools.jpg" width="150"> | <img src="docs/screenshots/app.jpg" width="150"> |
 
 ### Verify your download
 Compare the SHA-256 checksum shown in the release notes with your file.
