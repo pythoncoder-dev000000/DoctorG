@@ -1,0 +1,58 @@
+name: False positive / wrong verdict
+description: A safe app is shown as Suspicious or Malicious (or a bad app is shown as Safe)
+title: "[Verdict]: "
+labels: ["false-positive"]
+body:
+  - type: input
+    id: appname
+    attributes:
+      label: App name
+    validations:
+      required: true
+  - type: input
+    id: package
+    attributes:
+      label: Package name
+      placeholder: "com.example.app"
+    validations:
+      required: true
+  - type: dropdown
+    id: shown
+    attributes:
+      label: What did DoctorG show?
+      options:
+        - Malicious
+        - Suspicious
+        - Needs review
+        - Safe (but the app is actually bad)
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: The "Why?" details
+      description: Paste or screenshot the findings list (hard evidence and soft signals) from the app detail screen.
+    validations:
+      required: true
+  - type: dropdown
+    id: source
+    attributes:
+      label: Where is the app from?
+      options:
+        - Pre-installed system app
+        - Google Play Store
+        - Other app store
+        - Downloaded APK
+        - Not sure
+    validations:
+      required: true
+  - type: input
+    id: cert
+    attributes:
+      label: Signing certificate SHA-256 (optional, helps a lot)
+  - type: input
+    id: device
+    attributes:
+      label: Phone model, Android version and DoctorG version
+    validations:
+      required: true
