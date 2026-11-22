@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DoctorG</string>
+    <string name="app_tagline">نجی اور آف لائن اینڈرائیڈ سیکیورٹی سوٹ</string>
+    <string name="apk_preinstall_scanner_title">DoctorG اے پی کے سکینر</string>
+    <string name="notification_listener_label">DoctorG لنک گارڈ</string>
+    <string name="scam_call_screening_label">DoctorG اسکیم کال گارڈ</string>
+    <string name="device_admin_label">DoctorG سیکیورٹی ایڈمن</string>
+    <string name="device_admin_description">DoctorG کو غیر محفوظ ایپس کو ورک پروفائل میں الگ رکھنے کی اجازت دیتا ہے۔</string>
+    <string name="widget_name">DoctorG شیلڈ</string>
+    <string name="widget_description">آپ کا لائیو DoctorG سیکیورٹی اسکور اور فوری اسکین دکھاتا ہے۔</string>
+
+    <string name="nav_home">ہوم</string>
+    <string name="nav_scan">اسکین</string>
+    <string name="nav_web">ویب اور نیٹ</string>
+    <string name="nav_privacy">پرائیویسی</string>
+    <string name="nav_settings">ٹولز</string>
+
+    <string name="action_quick_scan">فوری اسکین</string>
+    <string name="action_full_scan">مکمل اسکین</string>
+    <string name="action_pause">روکیں</string>
+    <string name="action_resume">جاری رکھیں</string>
+    <string name="action_cancel">منسوخ کریں</string>
+    <string name="action_allow">اجازت دیں</string>
+    <string name="action_skip_for_now">فی الحال چھوڑ دیں</string>
+    <string name="action_open_settings">ترتیبات کھولیں</string>
+    <string name="action_export_pdf">پی ڈی ایف رپورٹ محفوظ کریں</string>
+    <string name="action_update_signatures">دستخط اپ ڈیٹ کریں</string>
+
+    <string name="privacy_policy_title">DoctorG پرائیویسی وعدہ</string>
+    <string name="privacy_policy_body" formatted="false">DoctorG مکمل طور پر آپ کے ڈیوائس پر آف لائن کام کرتا ہے۔ کوئی اکاؤنٹ، اشتہار، یا ذاتی ڈیٹا اپ لوڈ نہیں کیا جاتا۔</string>
+
+    <!-- Notifications -->
+    <string name="notif_channel_scan">DoctorG اسکین پیش رفت</string>
+    <string name="notif_channel_alerts">DoctorG خطرے کے انتباہات</string>
+    <string name="notif_channel_vpn">DoctorG ویب پروٹیکشن VPN</string>
+    <string name="notif_channel_applock">DoctorG ایپ لاک اور گارڈ</string>
+    <string name="notif_vpn_title">DoctorG ویب پروٹیکشن فعال ہے</string>
+    <string name="notif_vpn_body">نقصان دہ اور فشنگ ڈومینز کو مقامی طور پر ڈیوائس پر فلٹر کیا جا رہا ہے۔</string>
+    <string name="notif_full_scan_title">DoctorG مکمل اسکین جاری ہے</string>
+    <string name="notif_applock_title">DoctorG فعال گارڈ</string>
+    <string name="notif_applock_body">ایپ لاک، UPI فراڈ گارڈ، اور ڈاؤن لوڈز کی مقامی نگرانی جاری ہے۔</string>
+
+    <!-- Scam Awareness Guides & Language Switcher -->
+    <string name="scam_helpline_title">قومی سائبر کرائم ہیلپ لائن (بھارت)</string>
+    <string name="scam_helpline_subtitle">UPI، KYC یا ڈیجیٹل اریسٹ اسکیم میں رقم کٹنے پر فوراً 1930 پر کال کریں۔</string>
+    <string name="scam_dial_1930">1930 ڈائل کریں</string>
+    <string name="scam_guides_title">اسکیم آگاہی گائیڈز</string>
+    <string name="scam_red_flags_heading">خطرے کی علامات:</string>
+    <string name="scam_what_to_do_heading">کیا کریں:</string>
+    <string name="scam_guides_empty">اس وقت کوئی اسکیم آگاہی گائیڈ دستیاب نہیں ہے۔</string>
+    <string name="scam_guides_error">اسکیم آگاہی گائیڈز لوڈ نہیں ہو سکیں۔ براہ کرم دوبارہ کوشش کریں۔</string>
+    <string name="scam_language_current">زبان: %1$s</string>
+    <string name="scam_language_switch_to">%1$s میں تبدیل کریں</string>
+    <string name="scam_evidence_checklist_title">رپورٹ کرنے سے پہلے ثبوت کی چیک لسٹ</string>
+    <string name="scam_evidence_item_1">دھوکہ باز کے فون نمبر، واٹس ایپ پروفائل یا SMS کا اسکرین شاٹ</string>
+    <string name="scam_evidence_item_2">UPI ٹرانزیکشن ID / UTR نمبر اور بینک اسٹیٹمنٹ کا ثبوت</string>
+    <string name="scam_evidence_item_3">موصول ہونے والا مشکوک لنک URL یا جعلی APK کا نام</string>
+    <string name="scam_evidence_item_4">تاریخ، درست وقت، اور کل نقصان کی رقم (فوراً رپورٹ کریں)</string>
+</resources>

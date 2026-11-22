@@ -1,0 +1,66 @@
+{
+  "version": "2026.11.02",
+  "notes": "Deprecated in favor of trusted_publishers.json. Kept for backward feed compatibility with empty certSha256 (never invent hashes).",
+  "apps": [
+    {
+      "name": "WhatsApp",
+      "packageName": "com.whatsapp",
+      "certSha256": "",
+      "category": "Messaging"
+    },
+    {
+      "name": "Google Pay (GPay)",
+      "packageName": "com.google.android.apps.nbu.paisa.user",
+      "certSha256": "",
+      "category": "UPI"
+    },
+    {
+      "name": "PhonePe",
+      "packageName": "com.phonepe.app",
+      "certSha256": "",
+      "category": "UPI"
+    },
+    {
+      "name": "Paytm",
+      "packageName": "net.one97.paytm",
+      "certSha256": "",
+      "category": "UPI"
+    },
+    {
+      "name": "BHIM UPI",
+      "packageName": "in.org.npci.upiapp",
+      "certSha256": "",
+      "category": "UPI"
+    },
+    {
+      "name": "YONO SBI",
+      "packageName": "com.sbi.lotusintouch",
+      "certSha256": "",
+      "category": "Banking"
+    },
+    {
+      "name": "HDFC Bank MobileBanking",
+      "packageName": "com.snapwork.hdfc",
+      "certSha256": "",
+      "category": "Banking"
+    },
+    {
+      "name": "iMobile Pay",
+      "packageName": "com.csam.icici.bank.imobile",
+      "certSha256": "",
+      "category": "Banking"
+    },
+    {
+      "name": "Axis Mobile",
+      "packageName": "com.axis.mobile",
+      "certSha256": "",
+      "category": "Banking"
+    },
+    {
+      "name": "Telegram",
+      "packageName": "org.telegram.messenger",
+      "certSha256": "",
+      "category": "Messaging"
+    }
+  ]
+}

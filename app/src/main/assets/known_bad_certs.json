@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "version": "2026.11.02",
+  "notes": "Known-malicious signing certificate SHA-256 digests (lowercase 64-char hex). Any installed app signed by a certificate in this list is flagged MALICIOUS as Hard Evidence.",
+  "certificates": []
+}

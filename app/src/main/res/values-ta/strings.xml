@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DoctorG</string>
+    <string name="app_tagline">தனியுரிமை மற்றும் ஆஃப்லைன் ஆண்ட்ராய்டு பாதுகாப்பு தொகுப்பு</string>
+    <string name="apk_preinstall_scanner_title">DoctorG APK ஸ்கேனர்</string>
+    <string name="notification_listener_label">DoctorG இணைப்பு பாதுகாப்பு</string>
+    <string name="scam_call_screening_label">DoctorG மோசடி அழைப்பு பாதுகாப்பு</string>
+    <string name="device_admin_label">DoctorG பாதுகாப்பு நிர்வாகி</string>
+    <string name="device_admin_description">நம்பகமில்லாத செயலிகளை ஒர்க் சுயவிவரத்தில் தனிமைப்படுத்த DoctorG-க்கு அனுமதி அளிக்கிறது.</string>
+    <string name="widget_name">DoctorG கவசம்</string>
+    <string name="widget_description">உங்கள் நேரடி DoctorG பாதுகாப்பு மதிப்பெண் மற்றும் விரைவு ஸ்கேனைக் காட்டும்.</string>
+
+    <string name="nav_home">முகப்பு</string>
+    <string name="nav_scan">ஸ்கேன்</string>
+    <string name="nav_web">இணையம்</string>
+    <string name="nav_privacy">தனியுரிமை</string>
+    <string name="nav_settings">கருவிகள்</string>
+
+    <string name="action_quick_scan">விரைவு ஸ்கேன்</string>
+    <string name="action_full_scan">முழு ஸ்கேன்</string>
+    <string name="action_pause">இடைநிறுத்து</string>
+    <string name="action_resume">தொடரவும்</string>
+    <string name="action_cancel">ரத்து செய்</string>
+    <string name="action_allow">அனுமதி</string>
+    <string name="action_skip_for_now">இப்போது தவிர்</string>
+    <string name="action_open_settings">அமைப்புகளைத் திற</string>
+    <string name="action_export_pdf">PDF அறிக்கை சேமி</string>
+    <string name="action_update_signatures">தரவுத்தளத்தைப் புதுப்பி</string>
+
+    <string name="privacy_policy_title">DoctorG தனியுரிமை வாக்குறுதி</string>
+    <string name="privacy_policy_body" formatted="false">DoctorG முழுமையாக உங்கள் சாதனத்தில் ஆஃப்லைனில் இயங்குகிறது. கணக்குகள், விளம்பரங்கள் அல்லது தனிப்பட்ட கோப்புகள் எதுவும் பதிவேற்றப்படுவதில்லை.</string>
+
+    <!-- Notifications -->
+    <string name="notif_channel_scan">DoctorG ஸ்கேன் முன்னேற்றம்</string>
+    <string name="notif_channel_alerts">DoctorG அச்சுறுத்தல் எச்சரிக்கைகள்</string>
+    <string name="notif_channel_vpn">DoctorG இணையப் பாதுகாப்பு VPN</string>
+    <string name="notif_channel_applock">DoctorG ஆப் லாக் மற்றும் காவலன்</string>
+    <string name="notif_vpn_title">DoctorG இணையப் பாதுகாப்பு செயலில் உள்ளது</string>
+    <string name="notif_vpn_body">தீங்கிழைக்கும் மற்றும் பிஷிங் தளங்கள் சாதனத்திலேயே தடுக்கப்படுகின்றன.</string>
+    <string name="notif_full_scan_title">DoctorG முழு ஸ்கேன் நடைபெறுகிறது</string>
+    <string name="notif_applock_title">DoctorG செயலில் உள்ள காவலன்</string>
+    <string name="notif_applock_body">ஆப் லாக், UPI மோசடி பாதுகாப்பு மற்றும் பதிவிறக்கங்கள் கண்காணிக்கப்படுகின்றன.</string>
+
+    <!-- Scam Awareness Guides & Language Switcher -->
+    <string name="scam_helpline_title">தேசிய சைபர் கிரைம் உதவி எண் (இந்தியா)</string>
+    <string name="scam_helpline_subtitle">UPI, KYC அல்லது டிஜிட்டல் கைது மோசடியில் பணம் கழிக்கப்பட்டால் உடனே 1930 எண்ணில் அழைக்கவும்.</string>
+    <string name="scam_dial_1930">1930 அழைக்கவும்</string>
+    <string name="scam_guides_title">மோசடி விழிப்புணர்வு வழிகாட்டிகள்</string>
+    <string name="scam_red_flags_heading">எச்சரிக்கை அறிகுறிகள்:</string>
+    <string name="scam_what_to_do_heading">என்ன செய்ய வேண்டும்:</string>
+    <string name="scam_guides_empty">தற்போது மோசடி விழிப்புணர்வு வழிகாட்டிகள் எதுவும் இல்லை.</string>
+    <string name="scam_guides_error">மோசடி விழிப்புணர்வு வழிகாட்டிகளை ஏற்ற முடியவில்லை. மீண்டும் முயற்சிக்கவும்.</string>
+    <string name="scam_language_current">மொழி: %1$s</string>
+    <string name="scam_language_switch_to">%1$s-க்கு மாறவும்</string>
+    <string name="scam_evidence_checklist_title">புகார் செய்வதற்கு முன் ஆதார சரிபார்ப்புப் பட்டியல்</string>
+    <string name="scam_evidence_item_1">மோசடியாளரின் தொலைபேசி எண், வாட்ஸ்அப் சுயவிவரம் அல்லது SMS ஸ்கிரீன்ஷாட்</string>
+    <string name="scam_evidence_item_2">UPI பரிவர்த்தனை ID / UTR எண் மற்றும் வங்கி அறிக்கை ஆதாரம்</string>
+    <string name="scam_evidence_item_3">வந்த சந்தேகமான இணைப்பு URL அல்லது போலி APK பெயர்</string>
+    <string name="scam_evidence_item_4">தேதி, சரியான நேரம் மற்றும் இழந்த மொத்தத் தொகை (உடனடியாகப் புகாரளிக்கவும்)</string>
+</resources>

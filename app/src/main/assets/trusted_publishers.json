@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "version": "2026.11.02",
+  "notes": "Verified publisher allowlist (Tier 2). Populate certSha256 arrays with real lowercase 64-char SHA-256 certificate digests extracted from a clean device using scripts/extract_trusted_certs.py or DoctorG Settings > Export Installed Certs. Entries with an empty certSha256 list never grant Tier 2 verification automatically.",
+  "publishers": [
+    {
+      "packageName": "com.google.android.gms",
+      "displayName": "Google Play services",
+      "certSha256": [],
+      "publisher": "Google LLC",
+      "category": "System"
+    },
+    {
+      "packageName": "com.android.vending",
+      "displayName": "Google Play Store",
+      "certSha256": [],
+      "publisher": "Google LLC",
+      "category": "Store"
+    },
+    {
+      "packageName": "com.google.android.googlequicksearchbox",
+      "displayName": "Google",
+      "certSha256": [],
+      "publisher": "Google LLC",
+      "category": "Search"
+    },
+    {
+      "packageName": "com.android.chrome",
+      "displayName": "Chrome",
+      "certSha256": [],
+      "publisher": "Google LLC",
+      "category": "Browser"
+    },
+    {
+      "packageName": "com.google.android.gm",
+      "displayName": "Gmail",
+      "certSha256": [],
+      "publisher": "Google LLC",
+      "category": "Email"
+    },
+    {
+      "packageName": "com.google.android.apps.nbu.paisa.user",
+      "displayName": "Google Pay (GPay)",
+      "certSha256": [],
+      "publisher": "Google LLC",
+      "category": "UPI"
+    },
+    {
+      "packageName": "com.google.android.youtube",
+      "displayName": "YouTube",
+      "certSha256": [],
+      "publisher": "Google LLC",
+      "category": "Media"
+    },
+    {
+      "packageName": "com.google.android.apps.maps",
+      "displayName": "Google Maps",
+      "certSha256": [],
+      "publisher": "Google LLC",
+      "category": "Navigation"
+    },
+    {
+      "packageName": "com.google.android.apps.docs",
+      "displayName": "Google Drive",
+      "certSha256": [],
+      "publisher": "Google LLC",
+      "category": "Productivity"
+    },
+    {
+      "packageName": "com.google.android.apps.photos",
+      "displayName": "Google Photos",
+      "certSha256": [],
+      "publisher": "Google LLC",
+      "category": "Media"
+    },
+    {
+      "packageName": "com.google.android.apps.messaging",
+      "displayName": "Google Messages",
+      "certSha256": [],
+      "publisher": "Google LLC",
+      "category": "Messaging"
+    },
+    {
+      "packageName": "com.whatsapp",
+      "displayName": "WhatsApp",
+      "certSha256": [],
+      "publisher": "WhatsApp LLC",
+      "category": "Messaging"
+    },
+    {
+      "packageName": "com.whatsapp.w4b",
+      "displayName": "WhatsApp Business",
+      "certSha256": [],
+      "publisher": "WhatsApp LLC",
+      "category": "Messaging"
+    },
+    {
+      "packageName": "org.telegram.messenger",
+      "displayName": "Telegram",
+      "certSha256": [],
+      "publisher": "Telegram FZ-LLC",
+      "category": "Messaging"
+    },
+    {
+      "packageName": "com.phonepe.app",
+      "displayName": "PhonePe",
+      "certSha256": [],
+      "publisher": "PhonePe Private Limited",
+      "category": "UPI"
+    },
+    {
+      "packageName": "net.one97.paytm",
+      "displayName": "Paytm",
+      "certSha256": [],
+      "publisher": "One97 Communications",
+      "category": "UPI"
+    },
+    {
+      "packageName": "in.org.npci.upiapp",
+      "displayName": "BHIM UPI",
+      "certSha256": [],
+      "publisher": "NPCI",
+      "category": "UPI"
+    },
+    {
+      "packageName": "com.sbi.lotusintouch",
+      "displayName": "YONO SBI",
+      "certSha256": [],
+      "publisher": "State Bank of India",
+      "category": "Banking"
+    },
+    {
+      "packageName": "com.snapwork.hdfc",
+      "displayName": "HDFC Bank MobileBanking",
+      "certSha256": [],
+      "publisher": "HDFC Bank Ltd.",
+      "category": "Banking"
+    },
+    {
+      "packageName": "com.csam.icici.bank.imobile",
+      "displayName": "iMobile Pay",
+      "certSha256": [],
+      "publisher": "ICICI Bank Ltd.",
+      "category": "Banking"
+    },
+    {
+      "packageName": "com.axis.mobile",
+      "displayName": "Axis Mobile",
+      "certSha256": [],
+      "publisher": "Axis Bank Ltd.",
+      "category": "Banking"
+    },
+    {
+      "packageName": "com.msf.kbank.mobile",
+      "displayName": "Kotak Mobile Banking",
+      "certSha256": [],
+      "publisher": "Kotak Mahindra Bank",
+      "category": "Banking"
+    },
+    {
+      "packageName": "com.boat.hearables",
+      "displayName": "boAt Hearables",
+      "certSha256": [],
+      "publisher": "Imagine Marketing Limited (boAt)",
+      "category": "Audio"
+    },
+    {
+      "packageName": "com.coveiot.android.boat",
+      "displayName": "boAt Crest",
+      "certSha256": [],
+      "publisher": "Imagine Marketing Limited (boAt)",
+      "category": "Wearables"
+    }
+  ]
+}

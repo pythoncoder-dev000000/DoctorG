@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DoctorG</string>
+    <string name="app_tagline">निजी और ऑफलाइन एंड्रॉइड सुरक्षा सूट</string>
+    <string name="apk_preinstall_scanner_title">DoctorG APK स्कैनर</string>
+    <string name="notification_listener_label">DoctorG लिंक गार्ड</string>
+    <string name="scam_call_screening_label">DoctorG स्कैम कॉल गार्ड</string>
+    <string name="device_admin_label">DoctorG सुरक्षा एडमिन</string>
+    <string name="device_admin_description">DoctorG को अविश्वसनीय ऐप्स को वर्क प्रोफ़ाइल में अलग रखने और अनधिकृत छेड़छाड़ से बचाने की अनुमति देता है।</string>
+    <string name="widget_name">DoctorG शील्ड</string>
+    <string name="widget_description">आपका लाइव DoctorG सुरक्षा स्कोर और वन-टैप क्विक स्कैन दिखाता है।</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">होम</string>
+    <string name="nav_scan">स्कैन</string>
+    <string name="nav_web">वेब व नेट</string>
+    <string name="nav_privacy">प्राइवेसी</string>
+    <string name="nav_settings">टूल्स</string>
+
+    <!-- Core Actions -->
+    <string name="action_quick_scan">क्विक स्कैन</string>
+    <string name="action_full_scan">फुल स्कैन</string>
+    <string name="action_pause">रोकें</string>
+    <string name="action_resume">जारी रखें</string>
+    <string name="action_cancel">रद्द करें</string>
+    <string name="action_allow">अनुमति दें</string>
+    <string name="action_skip_for_now">अभी छोड़ें</string>
+    <string name="action_open_settings">सेटिंग्स खोलें</string>
+    <string name="action_export_pdf">PDF रिपोर्ट सेव करें</string>
+    <string name="action_update_signatures">सिग्नेचर अपडेट करें</string>
+
+    <!-- Privacy Policy Summary -->
+    <string name="privacy_policy_title">DoctorG प्राइवेसी वादा</string>
+    <string name="privacy_policy_body" formatted="false">DoctorG पूरी तरह आपके डिवाइस पर ऑफलाइन काम करता है। कोई खाता, एनालिटिक्स, विज्ञापन नहीं है और आपकी कोई भी व्यक्तिगत फाइल अपलोड नहीं की जाती। वैकल्पिक VirusTotal जांच में केवल SHA-256 हैश भेजे जाते हैं।</string>
+
+    <!-- Notifications -->
+    <string name="notif_channel_scan">DoctorG स्कैन प्रगति</string>
+    <string name="notif_channel_alerts">DoctorG खतरा अलर्ट</string>
+    <string name="notif_channel_vpn">DoctorG वेब प्रोटेक्शन VPN</string>
+    <string name="notif_channel_applock">DoctorG ऐप लॉक और गार्ड</string>
+    <string name="notif_vpn_title">DoctorG वेब प्रोटेक्शन सक्रिय</string>
+    <string name="notif_vpn_body">खतरनाक और फिशिंग डोमेन को डिवाइस पर ही ब्लॉक किया जा रहा है।</string>
+    <string name="notif_full_scan_title">DoctorG फुल स्कैन चल रहा है</string>
+    <string name="notif_applock_title">DoctorG एक्टिव गार्ड</string>
+    <string name="notif_applock_body">ऐप लॉक, UPI फ्रॉड गार्ड और डाउनलोड की स्थानीय निगरानी जारी है।</string>
+
+    <!-- Scam Awareness Guides & Language Switcher -->
+    <string name="scam_helpline_title">राष्ट्रीय साइबर अपराध हेल्पलाइन (भारत)</string>
+    <string name="scam_helpline_subtitle">UPI, KYC या डिजिटल अरेस्ट स्कैम में पैसे कटने पर तुरंत 1930 पर कॉल करें।</string>
+    <string name="scam_dial_1930">1930 डायल करें</string>
+    <string name="scam_guides_title">स्कैम जागरूकता गाइड</string>
+    <string name="scam_red_flags_heading">खतरे के संकेत:</string>
+    <string name="scam_what_to_do_heading">क्या करें:</string>
+    <string name="scam_guides_empty">फिलहाल कोई स्कैम जागरूकता गाइड उपलब्ध नहीं है।</string>
+    <string name="scam_guides_error">स्कैम जागरूकता गाइड लोड नहीं हो सकी। कृपया फीड अपडेट करें या ऐप दोबारा खोलें।</string>
+    <string name="scam_language_current">भाषा: %1$s</string>
+    <string name="scam_language_switch_to">%1$s में बदलें</string>
+    <string name="scam_evidence_checklist_title">शिकायत दर्ज करने से पहले साक्ष्य चेकलिस्ट</string>
+    <string name="scam_evidence_item_1">ठग के फोन नंबर, व्हाट्सएप प्रोफ़ाइल या SMS का स्क्रीनशॉट</string>
+    <string name="scam_evidence_item_2">UPI ट्रांजेक्शन ID / UTR नंबर और बैंक स्टेटमेंट में पैसे कटने का प्रमाण</string>
+    <string name="scam_evidence_item_3">मिला हुआ संदिग्ध लिंक URL या फर्जी APK का नाम</string>
+    <string name="scam_evidence_item_4">तारीख, सही समय और कुल नुकसान की राशि (गोल्डन ऑवर में रिपोर्ट करें)</string>
+</resources>

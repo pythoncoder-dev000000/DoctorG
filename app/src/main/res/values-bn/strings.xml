@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DoctorG</string>
+    <string name="app_tagline">ব্যক্তিগত ও অফলাইন অ্যান্ড্রয়েড নিরাপত্তা সুইট</string>
+    <string name="apk_preinstall_scanner_title">DoctorG APK স্ক্যানার</string>
+    <string name="notification_listener_label">DoctorG লিংক গার্ড</string>
+    <string name="scam_call_screening_label">DoctorG স্ক্যাম কল গার্ড</string>
+    <string name="device_admin_label">DoctorG সিকিউরিটি অ্যাডমিন</string>
+    <string name="device_admin_description">DoctorG-কে অবিশ্বস্ত অ্যাপগুলো ওয়ার্ক প্রোফাইলে আলাদা রাখতে এবং অননুমোদিত পরিবর্তন থেকে সুরক্ষা দিতে অনুমতি দেয়।</string>
+    <string name="widget_name">DoctorG শিল্ড</string>
+    <string name="widget_description">আপনার লাইভ DoctorG নিরাপত্তা স্কোর এবং এক-ট্যাপ কুইক স্ক্যান দেখায়।</string>
+
+    <string name="nav_home">হোম</string>
+    <string name="nav_scan">স্ক্যান</string>
+    <string name="nav_web">ওয়েব ও নেট</string>
+    <string name="nav_privacy">গোপনীয়তা</string>
+    <string name="nav_settings">টুলস</string>
+
+    <string name="action_quick_scan">কুইক স্ক্যান</string>
+    <string name="action_full_scan">ফুল স্ক্যান</string>
+    <string name="action_pause">বিরতি</string>
+    <string name="action_resume">পুনরায় শুরু</string>
+    <string name="action_cancel">বাতিল</string>
+    <string name="action_allow">অনুমতি দিন</string>
+    <string name="action_skip_for_now">এখন এড়িয়ে যান</string>
+    <string name="action_open_settings">সেটিংস খুলুন</string>
+    <string name="action_export_pdf">PDF রিপোর্ট সংরক্ষণ</string>
+    <string name="action_update_signatures">সিগনেচার আপডেট করুন</string>
+
+    <string name="privacy_policy_title">DoctorG গোপনীয়তার প্রতিশ্রুতি</string>
+    <string name="privacy_policy_body" formatted="false">DoctorG সম্পূর্ণভাবে আপনার ডিভাইসে অফলাইনে কাজ করে। কোনো অ্যাকাউন্ট, বিজ্ঞাপন বা ব্যক্তিগত ফাইল কখনোই আপলোড করা হয় না।</string>
+
+    <!-- Notifications -->
+    <string name="notif_channel_scan">DoctorG স্ক্যান অগ্রগতি</string>
+    <string name="notif_channel_alerts">DoctorG হুমকি সতর্কতা</string>
+    <string name="notif_channel_vpn">DoctorG ওয়েব সুরক্ষা VPN</string>
+    <string name="notif_channel_applock">DoctorG অ্যাপ লক ও গার্ড</string>
+    <string name="notif_vpn_title">DoctorG ওয়েব সুরক্ষা সক্রিয়</string>
+    <string name="notif_vpn_body">ক্ষতিকর ও ফিশিং ডোমেইনগুলো ডিভাইসেই স্থানীয়ভাবে ব্লক করা হচ্ছে।</string>
+    <string name="notif_full_scan_title">DoctorG ফুল স্ক্যান চলছে</string>
+    <string name="notif_applock_title">DoctorG সক্রিয় গার্ড</string>
+    <string name="notif_applock_body">অ্যাপ লক, UPI জালিয়াতি সুরক্ষা ও ডাউনলোড স্থানীয়ভাবে পর্যবেক্ষণ করা হচ্ছে।</string>
+
+    <!-- Scam Awareness Guides & Language Switcher -->
+    <string name="scam_helpline_title">জাতীয় সাইবার ক্রাইম হেল্পলাইন (ভারত)</string>
+    <string name="scam_helpline_subtitle">UPI, KYC বা ডিজিটাল অ্যারেস্ট প্রতারণায় টাকা কেটে গেলে অবিলম্বে 1930 নম্বরে কল করুন।</string>
+    <string name="scam_dial_1930">1930 ডায়াল করুন</string>
+    <string name="scam_guides_title">প্রতারণা সচেতনতা গাইড</string>
+    <string name="scam_red_flags_heading">সতর্কতার লক্ষণ:</string>
+    <string name="scam_what_to_do_heading">করণীয়:</string>
+    <string name="scam_guides_empty">এই মুহূর্তে কোনো প্রতারণা সচেতনতা গাইড উপলব্ধ নেই।</string>
+    <string name="scam_guides_error">প্রতারণা সচেতনতা গাইড লোড করা যায়নি। অনুগ্রহ করে আবার চেষ্টা করুন।</string>
+    <string name="scam_language_current">ভাষা: %1$s</string>
+    <string name="scam_language_switch_to">%1$s-এ পরিবর্তন করুন</string>
+    <string name="scam_evidence_checklist_title">অভিযোগের আগে প্রমাণ চেকলিস্ট</string>
+    <string name="scam_evidence_item_1">প্রতারকের ফোন নম্বর, হোয়াটসঅ্যাপ প্রোফাইল বা SMS-এর স্ক্রিনশট</string>
+    <string name="scam_evidence_item_2">UPI ট্রানজেকশন ID / UTR নম্বর এবং ব্যাংক স্টেটমেন্টের প্রমাণ</string>
+    <string name="scam_evidence_item_3">প্রাপ্ত সন্দেহজনক লিংক URL বা ভুয়া APK-এর নাম</string>
+    <string name="scam_evidence_item_4">তারিখ, সঠিক সময় এবং মোট ক্ষতির পরিমাণ (গোল্ডেন আওয়ারের মধ্যে জানান)</string>
+</resources>

@@ -1,0 +1,25 @@
+{
+  "version": "2026.11.01",
+  "knownPackages": [
+    "com.mspy.android",
+    "com.flexispy.android",
+    "com.cerberusapp.hidden",
+    "com.hoverwatch.android",
+    "com.cocospyspy.service",
+    "com.spyzie.agent",
+    "com.thetruthspy.service",
+    "com.kidsguard.stealth",
+    "com.android.system.monitor.hidden",
+    "com.trackview.stealth"
+  ],
+  "keywords": [
+    "spy", "stalker", "stealth", "keylog", "celltrack", "hiddenmonitor", "truthspy", "flexispy", "mspy"
+  ],
+  "safetyGuidance": [
+    "Do NOT immediately uninstall or confront an abuser if you fear for your physical safety; removing stalkerware can alert the installer.",
+    "Use a different, trusted device to seek help, change passwords, and review account recovery options.",
+    "Document evidence (screenshots of the detected app name, permissions, and install date) safely.",
+    "Enable 2-Step Verification on your Google, email, and banking accounts from a safe device.",
+    "In India, call National Cyber Crime Helpline 1930 or Women Helpline 181 for confidential assistance."
+  ]
+}

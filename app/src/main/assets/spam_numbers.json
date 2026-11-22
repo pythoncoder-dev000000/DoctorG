@@ -1,0 +1,29 @@
+{
+  "version": "2026.11.01",
+  "entries": [
+    {
+      "number": "+911409990001",
+      "category": "Fake KYC Scam",
+      "reports": 412,
+      "risk": "HIGH"
+    },
+    {
+      "number": "+919999000111",
+      "category": "Digital Arrest Impersonator",
+      "reports": 689,
+      "risk": "HIGH"
+    },
+    {
+      "number": "+918000001234",
+      "category": "Fake Courier / Customs",
+      "reports": 304,
+      "risk": "HIGH"
+    },
+    {
+      "number": "+911408881122",
+      "category": "Loan / Telemarketing Spam",
+      "reports": 195,
+      "risk": "MEDIUM"
+    }
+  ]
+}

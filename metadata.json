@@ -1,0 +1,6 @@
+{
+  "name": "DoctorG",
+  "description": "DoctorG is an offline-first, open-source Android security suite with Quick & Full Malware Scans, YARA & on-device ML detection, local VPN DNS protection, Scam Shield, App Lock, SQLCipher Vault, and 2FA Authenticator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

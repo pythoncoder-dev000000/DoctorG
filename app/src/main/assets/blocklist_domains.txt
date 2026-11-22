@@ -1,0 +1,22 @@
+# DoctorG Starter Offline Blocklist (Malware / Phishing / Trackers)
+# Format: one domain per line
+testsafebrowsing.appspot.com
+malware.testing.google.test
+phishing.testing.google.test
+kyc-update-bank-verify.xyz
+sbi-yono-kyc-alert.top
+hdfc-pan-verify-now.click
+paytm-kyc-blocked-update.info
+indiapost-parcel-fee.xyz
+e-challan-pay-fast.top
+freegift-lottery-claim.site
+apk-mod-bank-hack.ru
+doubleclick.net
+ads.pubmatic.com
+analytics.tiktok.com
+graph.facebook.com
+app-measurement.com
+pagead2.googlesyndication.com
+adservice.google.com
+tracking.adjust.com
+events.appsflyer.com

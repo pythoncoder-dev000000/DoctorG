@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DoctorG</string>
+    <string name="app_tagline">Private, Offline-First Android Security Suite</string>
+    <string name="apk_preinstall_scanner_title">DoctorG APK Scanner</string>
+    <string name="notification_listener_label">DoctorG Link Guard</string>
+    <string name="scam_call_screening_label">DoctorG Scam Call Guard</string>
+    <string name="device_admin_label">DoctorG Security Admin</string>
+    <string name="device_admin_description">Allows DoctorG to isolate untrusted apps in a Work Profile and protect against unauthorized tampering.</string>
+    <string name="widget_name">DoctorG Shield</string>
+    <string name="widget_description">Shows your live DoctorG security score and one-tap Quick Scan.</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_scan">Scan</string>
+    <string name="nav_web">Web &amp; Net</string>
+    <string name="nav_privacy">Privacy</string>
+    <string name="nav_settings">Tools</string>
+
+    <!-- Core Actions -->
+    <string name="action_quick_scan">Quick Scan</string>
+    <string name="action_full_scan">Full Scan</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Resume</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_allow">Allow</string>
+    <string name="action_skip_for_now">Skip for now</string>
+    <string name="action_open_settings">Open Settings</string>
+    <string name="action_export_pdf">Export PDF Report</string>
+    <string name="action_update_signatures">Update Signatures</string>
+
+    <!-- Privacy Policy Summary -->
+    <string name="privacy_policy_title">DoctorG Privacy Promise</string>
+    <string name="privacy_policy_body" formatted="false">DoctorG runs 100% on your device. No accounts, no analytics, no ads, and no personal files are ever uploaded. Optional VirusTotal lookups send only SHA-256 hashes (never APK files) when you configure your own API key. All threat feeds come from verifiable static open-source files checked with SHA-256.</string>
+
+    <!-- Notifications -->
+    <string name="notif_channel_scan">DoctorG Scan Progress</string>
+    <string name="notif_channel_alerts">DoctorG Threat Alerts</string>
+    <string name="notif_channel_vpn">DoctorG Web Protection VPN</string>
+    <string name="notif_channel_applock">DoctorG App Lock &amp; Guard</string>
+    <string name="notif_vpn_title">DoctorG Web Protection Active</string>
+    <string name="notif_vpn_body">Filtering malicious &amp; phishing domains locally on-device.</string>
+    <string name="notif_full_scan_title">DoctorG Full Scan Running</string>
+    <string name="notif_applock_title">DoctorG Active Guard</string>
+    <string name="notif_applock_body">Monitoring App Lock, UPI Fraud Guard, and Downloads locally.</string>
+
+    <!-- Scam Awareness Guides & Language Switcher -->
+    <string name="scam_helpline_title">National Cyber Crime Helpline (India)</string>
+    <string name="scam_helpline_subtitle">Call 1930 immediately if money was debited in a UPI, KYC, or Digital Arrest scam.</string>
+    <string name="scam_dial_1930">Dial 1930</string>
+    <string name="scam_guides_title">Scam Awareness Guides</string>
+    <string name="scam_red_flags_heading">Red Flags:</string>
+    <string name="scam_what_to_do_heading">What To Do:</string>
+    <string name="scam_guides_empty">No scam awareness guides are currently loaded.</string>
+    <string name="scam_guides_error">Unable to load scam awareness guides. Update feeds or restart DoctorG.</string>
+    <string name="scam_language_current">Language: %1$s</string>
+    <string name="scam_language_switch_to">Switch to %1$s</string>
+    <string name="scam_evidence_checklist_title">Report-a-Scam Evidence Checklist</string>
+    <string name="scam_evidence_item_1">Screenshot of scammer\'s phone number, WhatsApp profile, or SMS</string>
+    <string name="scam_evidence_item_2">UPI Transaction ID / UTR number &amp; bank statement debit proof</string>
+    <string name="scam_evidence_item_3">Suspicious link URL or fake APK name received</string>
+    <string name="scam_evidence_item_4">Date, exact time, and total amount lost (report within Golden Hour)</string>
+    <string name="lang_name_en" translatable="false">English</string>
+    <string name="lang_name_hi" translatable="false">हिन्दी</string>
+    <string name="lang_name_ur" translatable="false">اردو</string>
+    <string name="lang_name_bn" translatable="false">বাংলা</string>
+    <string name="lang_name_ta" translatable="false">தமிழ்</string>
+</resources>

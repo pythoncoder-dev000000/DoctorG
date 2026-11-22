@@ -1,0 +1,50 @@
+{
+  "version": "2026.11.01",
+  "cves": [
+    {
+      "cveId": "CVE-2024-43093",
+      "maxVulnerablePatch": "2024-11-01",
+      "minApi": 26,
+      "maxApi": 35,
+      "severity": "CRITICAL",
+      "title": "Android Framework Privilege Escalation (Active Exploitation)",
+      "advice": "Install the November 2024 or newer Android Security Patch immediately."
+    },
+    {
+      "cveId": "CVE-2024-32896",
+      "maxVulnerablePatch": "2024-09-01",
+      "minApi": 26,
+      "maxApi": 34,
+      "severity": "HIGH",
+      "title": "Android Framework Elevation of Privilege",
+      "advice": "Update Android system security patch to 2024-09-05 or newer."
+    },
+    {
+      "cveId": "CVE-2025-22441",
+      "maxVulnerablePatch": "2025-04-01",
+      "minApi": 28,
+      "maxApi": 35,
+      "severity": "HIGH",
+      "title": "Framework Local Escalation of Privilege",
+      "advice": "Install the April 2025 or newer Android Security Bulletin update."
+    },
+    {
+      "cveId": "CVE-2025-48539",
+      "maxVulnerablePatch": "2025-09-01",
+      "minApi": 30,
+      "maxApi": 36,
+      "severity": "CRITICAL",
+      "title": "System Remote Code Execution over Bluetooth/Media",
+      "advice": "Update to the September 2025 or later security patch level."
+    },
+    {
+      "cveId": "CVE-2023-2136",
+      "maxVulnerablePatch": "2023-06-01",
+      "minApi": 26,
+      "maxApi": 33,
+      "severity": "CRITICAL",
+      "title": "Skia Integer Overflow Sandbox Escape",
+      "advice": "Update Android OS and Android System WebView via your app store."
+    }
+  ]
+}

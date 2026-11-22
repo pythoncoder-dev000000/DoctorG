@@ -1,0 +1,53 @@
+{
+  "version": "2026.11.01",
+  "rules": [
+    {
+      "id": "kyc_urgent",
+      "label": "Fake KYC Suspension",
+      "weight": 35,
+      "pattern": "(?i)(kyc\\s*(update|pending|expire|suspend|block)|pan\\s*card\\s*update|aapka\\s*khata\\s*band|account\\s*will\\s*be\\s*blocked|yono\\s*blocked)"
+    },
+    {
+      "id": "otp_share",
+      "label": "OTP / PIN Phishing",
+      "weight": 40,
+      "pattern": "(?i)(share\\s*(your\\s*)?otp|otp\\s*bataye|enter\\s*upi\\s*pin\\s*to\\s*receive|receive\\s*money\\s*enter\\s*pin|cvv\\s*share|pin\\s*daliye)"
+    },
+    {
+      "id": "digital_arrest",
+      "label": "Digital Arrest / Police Threat",
+      "weight": 45,
+      "pattern": "(?i)(digital\\s*arrest|cbi\\s*officer|trai\\s*disconnect|narcotics|money\\s*laundering\\s*case|aadhaar\\s*linked\\s*to\\s*crime|arrest\\s*warrant)"
+    },
+    {
+      "id": "fake_courier",
+      "label": "Fake Courier / Customs Fee",
+      "weight": 30,
+      "pattern": "(?i)(india\\s*post.*address|fedex.*customs|parcel\\s*held|delivery\\s*failed.*click|customs\\s*duty\\s*pay|dhl.*seized)"
+    },
+    {
+      "id": "lottery_prize",
+      "label": "Lottery / Cashback Scam",
+      "weight": 30,
+      "pattern": "(?i)(won\\s*rs\\.?\\s*\\d+|kbc\\s*lottery|lucky\\s*draw\\s*winner|claim\\s*your\\s*prize|jeete\\s*hai\\s*lakh|cashback\\s*claim\\s*link)"
+    },
+    {
+      "id": "job_task",
+      "label": "Fake Part-Time / Telegram Task Job",
+      "weight": 30,
+      "pattern": "(?i)(work\\s*from\\s*home.*\\d{4,5}\\s*daily|like\\s*youtube\\s*videos\\s*earn|telegram\\s*task\\s*earn|ghar\\s*baithe\\s*kamaye|daily\\s*income\\s*rs)"
+    },
+    {
+      "id": "electricity_bill",
+      "label": "Fake Electricity Disconnection",
+      "weight": 35,
+      "pattern": "(?i)(electricity\\s*(power|connection)\\s*will\\s*be\\s*disconnected\\s*tonight|bijli\\s*bill\\s*update|call\\s*electricity\\s*officer)"
+    },
+    {
+      "id": "suspicious_shortlink",
+      "label": "Suspicious Shortened / Unofficial Link",
+      "weight": 20,
+      "pattern": "(?i)(bit\\.ly/|tinyurl\\.com/|cutt\\.ly/|\\.xyz/|\\.top/|\\.click/|download\\s*apk)"
+    }
+  ]
+}
