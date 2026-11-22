@@ -5,6 +5,24 @@
 - **100% Offline & Private**: Zero custom backend, zero Firebase, zero cloud accounts, zero ads, zero analytics, and zero monetization.
 - **User Always in Control**: Every permission is requested strictly just-in-time with a clear explanation before Android's system prompt. Denied permissions never block the app.
 
+
+## Download
+
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/pythoncoder-dev000000/DoctorG/releases/latest)
+
+Latest release: https://github.com/pythoncoder-dev000000/DoctorG/releases/latest
+
+### Install
+1. Open the link above and download the `.apk` file from **Assets**.
+2. Allow "Install unknown apps" for your browser or file manager when asked.
+3. Open the APK and tap Install. Play Protect may show a warning for apps from outside the Play Store. This is expected.
+4. If Play Protect blocks the installation, tap **More details > Install anyway**. If the app still does not install, temporarily turn off **Scan apps with Play Protect** (Play Store > profile icon > Play Protect > Settings), install DoctorG, and then turn it back on.
+
+Requires Android 8.0 or newer.
+
+### Verify your download
+Compare the SHA-256 checksum shown in the release notes with your file.
+
 ---
 
 ## Replacing the DoctorG Logo
@@ -99,4 +117,3 @@ gradle :app:testDebugUnitTest
 # Gradle Managed Devices (Pixel 8, Pixel Tablet, Pixel Fold, Low-RAM API 28)
 gradle :app:allDevicesCheck
 ```
-please disable play protect and install 
