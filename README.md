@@ -99,3 +99,4 @@ gradle :app:testDebugUnitTest
 # Gradle Managed Devices (Pixel 8, Pixel Tablet, Pixel Fold, Low-RAM API 28)
 gradle :app:allDevicesCheck
 ```
+please disable play protect and install 
